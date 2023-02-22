@@ -1,1 +1,1 @@
-# SagineniAEMTraining
+# AEM Tutorials
